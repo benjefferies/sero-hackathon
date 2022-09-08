@@ -1,0 +1,3 @@
+interface Leaderboard {
+  rankings: Household[];
+}
