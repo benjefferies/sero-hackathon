@@ -1,6 +1,7 @@
 [
   {
     "user": "average",
+    "region": "south-west",
     "start": "202209070030",
     "end": "202209080000",
     "gas": {
@@ -400,6 +401,7 @@
   },
   {
     "user": "low-daily-high-night",
+    "region": "south-west",
     "start": "202209070030",
     "end": "202209080000",
     "gas": {
