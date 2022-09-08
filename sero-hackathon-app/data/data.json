@@ -12,195 +12,243 @@
           "values": [
             {
               "timestamp": "2022-09-07 00:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 01:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 01:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 02:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 02:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 03:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 03:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 04:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 04:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 05:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 05:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 06:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 06:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 07:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 07:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 08:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 08:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 09:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 09:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 10:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 10:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 11:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 11:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 12:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 12:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 13:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 13:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 14:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 14:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 15:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 15:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 16:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 16:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 17:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 17:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 18:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 18:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 19:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 19:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 20:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 20:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 21:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 21:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 22:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 22:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 23:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-07 23:30",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             },
             {
               "timestamp": "2022-09-08 00:00",
-              "value": 0.51
+              "value": 0.51,
+              "costPerKwH": 0.07
             }
           ]
         },
@@ -209,195 +257,243 @@
           "values": [
             {
               "timestamp": "2022-09-07 00:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 01:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 01:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 02:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 02:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 03:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 03:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 04:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 04:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 05:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 05:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 06:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 06:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 07:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 07:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 08:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 08:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 09:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 09:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 10:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 10:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 11:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 11:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 12:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 12:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 13:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 13:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 14:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 14:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 15:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 15:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 16:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 16:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 17:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 17:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 18:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 18:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 19:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 19:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 20:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 20:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 21:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 21:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 22:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 22:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 23:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-07 23:30",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             },
             {
               "timestamp": "2022-09-08 00:00",
-              "value": 0.14
+              "value": 0.14,
+              "costPerKwH": 0.28
             }
           ]
         }
@@ -416,59 +512,73 @@
           "values": [
             {
               "timestamp": "2022-09-07 00:30",
-              "value": 0.3
+              "value": 0.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 01:00",
-              "value": 0.3
+              "value": 0.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 01:30",
-              "value": 0.3
+              "value": 0.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 02:00",
-              "value": 0.3
+              "value": 0.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 02:30",
-              "value": 0.3
+              "value": 0.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 03:00",
-              "value": 0.3
+              "value": 0.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 03:30",
-              "value": 0.4
+              "value": 0.4,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 04:00",
-              "value": 0.5
+              "value": 0.5,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 04:30",
-              "value": 0.6
+              "value": 0.6,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 05:00",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 05:30",
-              "value": 1.0
+              "value": 1.0,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 06:00",
-              "value": 1.2
+              "value": 1.2,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 06:30",
-              "value": 1.6
+              "value": 1.6,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 07:00",
-              "value": 1.9
+              "value": 1.9,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 07:30",
@@ -476,135 +586,168 @@
             },
             {
               "timestamp": "2022-09-07 08:00",
-              "value": 2.5
+              "value": 2.5,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 08:30",
-              "value": 2.2
+              "value": 2.2,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 09:00",
-              "value": 1.8
+              "value": 1.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 09:30",
-              "value": 1.4
+              "value": 1.4,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 10:00",
-              "value": 1.2
+              "value": 1.2,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 10:30",
-              "value": 1
+              "value": 1,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 11:00",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 11:30",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 12:00",
-              "value": 0.7
+              "value": 0.7,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 12:30",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 13:00",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 13:30",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 14:00",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 14:30",
-              "value": 0.8
+              "value": 0.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 15:00",
-              "value": 0.9
+              "value": 0.9,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 15:30",
-              "value": 1.1
+              "value": 1.1,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 16:00",
-              "value": 1.3
+              "value": 1.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 16:30",
-              "value": 1.5
+              "value": 1.5,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 17:00",
-              "value": 1.8
+              "value": 1.8,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 17:30",
-              "value": 2.1
+              "value": 2.1,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 18:00",
-              "value": 2.3
+              "value": 2.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 18:30",
-              "value": 2.5
+              "value": 2.5,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 19:00",
-              "value": 2.3
+              "value": 2.3,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 19:30",
-              "value": 2.2
+              "value": 2.2,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 20:00",
-              "value": 1.9
+              "value": 1.9,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 20:30",
-              "value": 1.7
+              "value": 1.7,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 21:00",
-              "value": 1.5
+              "value": 1.5,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 21:30",
-              "value": 1.2
+              "value": 1.2,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 22:00",
-              "value": 1.1
+              "value": 1.1,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 22:30",
-              "value": 0.9
+              "value": 0.9,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 23:00",
-              "value": 0.7
+              "value": 0.7,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-07 23:30",
-              "value": 0.5
+              "value": 0.5,
+              "costPerKwH": 0.03
             },
             {
               "timestamp": "2022-09-08 00:00",
-              "value": 0.3
+              "value": 0.3,
+              "costPerKwH": 0.03
             }
           ]
         },
@@ -613,195 +756,243 @@
           "values": [
             {
               "timestamp": "2022-09-07 00:30",
-              "value": 0.071
+              "value": 0.071,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 01:00",
-              "value": 0.052
+              "value": 0.052,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 01:30",
-              "value": 0.047
+              "value": 0.047,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 02:00",
-              "value": 0.082
+              "value": 0.082,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 02:30",
-              "value": 0.103
+              "value": 0.103,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 03:00",
-              "value": 0.065
+              "value": 0.065,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 03:30",
-              "value": 0.041
+              "value": 0.041,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 04:00",
-              "value": 0.068
+              "value": 0.068,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 04:30",
-              "value": 0.062
+              "value": 0.062,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 05:00",
-              "value": 0.067
+              "value": 0.067,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 05:30",
-              "value": 0.129
+              "value": 0.129,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 06:00",
-              "value": 0.04
+              "value": 0.04,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 06:30",
-              "value": 0.03
+              "value": 0.03,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 07:00",
-              "value": 0.11
+              "value": 0.11,
+              "costPerKwH": 0.7
             },
             {
               "timestamp": "2022-09-07 07:30",
-              "value": 0.087
+              "value": 0.087,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 08:00",
-              "value": 0.072
+              "value": 0.072,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 08:30",
-              "value": 0.085
+              "value": 0.085,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 09:00",
-              "value": 0.048
+              "value": 0.048,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 09:30",
-              "value": 0.032
+              "value": 0.032,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 10:00",
-              "value": 0.087
+              "value": 0.087,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 10:30",
-              "value": 0.098
+              "value": 0.098,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 11:00",
-              "value": 0.065
+              "value": 0.065,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 11:30",
-              "value": 0.074
+              "value": 0.074,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 12:00",
-              "value": 0.072
+              "value": 0.072,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 12:30",
-              "value": 0.025
+              "value": 0.025,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 13:00",
-              "value": 0.071
+              "value": 0.071,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 13:30",
-              "value": 0.112
+              "value": 0.112,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 14:00",
-              "value": 0.071
+              "value": 0.071,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 14:30",
-              "value": 0.065
+              "value": 0.065,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 15:00",
-              "value": 0.121
+              "value": 0.121,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 15:30",
-              "value": 0.057
+              "value": 0.057,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 16:00",
-              "value": 0.024
+              "value": 0.024,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 16:30",
-              "value": 0.089
+              "value": 0.089,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 17:00",
-              "value": 0.086
+              "value": 0.086,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 17:30",
-              "value": 0.067
+              "value": 0.067,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 18:00",
-              "value": 0.1
+              "value": 0.1,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 18:30",
-              "value": 0.088
+              "value": 0.088,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 19:00",
-              "value": 0.042
+              "value": 0.042,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 19:30",
-              "value": 0.047
+              "value": 0.047,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 20:00",
-              "value": 0.083
+              "value": 0.083,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 20:30",
-              "value": 0.068
+              "value": 0.068,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 21:00",
-              "value": 1.712
+              "value": 1.712,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 21:30",
-              "value": 3.59
+              "value": 3.59,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 22:00",
-              "value": 3.499
+              "value": 3.499,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 22:30",
-              "value": 3.453
+              "value": 3.453,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 23:00",
-              "value": 3.52
+              "value": 3.52,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-07 23:30",
-              "value": 3.481
+              "value": 3.481,
+              "costPerKwH": 0.23
             },
             {
               "timestamp": "2022-09-08 00:00",
-              "value": 3.462
+              "value": 3.462,
+              "costPerKwH": 0.23
             }
           ]
         }
