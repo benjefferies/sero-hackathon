@@ -1,4 +1,5 @@
-interface Household {
+interface HouseholdRanking {
+  place: number;
   electricity: Consumption;
   gas: Consumption;
 }

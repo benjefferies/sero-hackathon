@@ -1,3 +1,3 @@
 interface Leaderboard {
-  rankings: Household[];
+  rankings: HouseholdRanking[];
 }
